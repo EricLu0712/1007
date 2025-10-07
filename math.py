@@ -1,9 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 def add(a, b):
     return a + b
 =======
 def subtract(a, b):
     return a - b
+=======
+def multiply(a, b):
+    return a*b
+>>>>>>> origin/fuck
 
 >>>>>>> origin/Sub
 num1 = float(input("Enter first number: "))
