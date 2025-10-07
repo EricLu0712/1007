@@ -1,4 +1,4 @@
-def add(a, b):
+def fuck(a, b):
     return a*b
 
 num1 = float(input("Enter first number: "))
